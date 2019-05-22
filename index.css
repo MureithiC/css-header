@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-size: 1.2rem;
+  background-color: skyblue;
+}
+
+.article-header {
+  border-bottom: 1px solid grey;
+  color: teal;
+}
+.article-body {
+  line-height: 2rem;
+}
+
+.article-img {
+  padding: 7px;
+  margin-right: 15px;
+}
+
+#content {
+  background-color: white;
+  padding: 15px;
+}
+
+header {
+  background-color: white;
+  border-bottom: 1px solid blue;
+}
+
+header ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: inline;
+}
+
+header li {
+  display: inline;
+}
+
+#title {
+  display: inline-block;
+  background-color: orange;
+  padding: 7px 15px;
+}
